@@ -7,3 +7,10 @@ Mark Rothko's paintings are deeply emotional and spiritual, characterized by the
 
 ## Overview
 This project was done to improve my CSS skills
+
+----
+
+## Technologies Used
+
+- HTML
+- CSS
