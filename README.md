@@ -12,5 +12,5 @@ This project was done to improve my CSS skills
 
 ## Technologies Used
 
-- HTML
-- CSS
+- HTML: For the structure of the website
+- CSS: For the design and style of the painting
